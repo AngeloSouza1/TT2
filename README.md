@@ -23,7 +23,7 @@ No contexto deste desafio, abordamos a implementação e testes de tarefas deter
 números divisíveis por w entre x e y.
 </p>
 <p> 
-   <a href="https://github.com/AngeloSouza1/TT1/issues/">
+   <a href="https://github.com/AngeloSouza1/TT2/issues/1">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
     </a>
 
@@ -36,7 +36,7 @@ Modele um banco de dados capaz de suportar essas regras.
   
 </p>
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT1/issues/">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/1">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
 
@@ -47,7 +47,7 @@ Modele um banco de dados capaz de suportar essas regras.
 idade maior ou igual à 18 anos e cuja profissão seja programador ou desenvolvedor
 </p> 
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT1/issues/">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
      
@@ -58,7 +58,7 @@ Controller)?
 </p>
 <p> 
 
- <a href="https://github.com/AngeloSouza1/TT1/issues/">
+ <a href="https://github.com/AngeloSouza1/TT2/issues/">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
     </a>
 
@@ -69,7 +69,7 @@ chamado find_user dentro de um controller com o nome UsersController.
  
 </p>
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT1/issues/13">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/13">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
 
@@ -81,7 +81,7 @@ que modo é possível saber qual controller é responsável por gerenciar uma de
 view?
 </p>
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT1/issues/">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
 
