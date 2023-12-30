@@ -1,5 +1,3 @@
-
-
 class DivisibleNumbersController < ApplicationController
   def find_divisible_numbers
     x = params[:x].to_i
