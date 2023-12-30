@@ -7,3 +7,30 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+# db/seeds.rb
+
+# Criar alguns usuários
+users = User.create([
+  { name: 'Alice', email: 'alice@example.com' },
+  { name: 'Bob', email: 'bob@example.com' },
+  { name: 'Charlie', email: 'charlie@example.com' }
+])
+
+# Criar alguns eventos
+events = Event.create([
+  { name: 'Evento A', date: Date.today },
+  { name: 'Evento B', date: Date.tomorrow }
+])
+
+# Associar usuários a eventos
+events.first.users << users
+events.last.users << users.first(2)
+
+# Criar prêmios para eventos
+awards = Award.create([
+  { name: '1º Prêmio', event: events.first },
+  { name: '2º Prêmio', event: events.first },
+  { name: '3º Prêmio', event: events.last }
+])
+
+
