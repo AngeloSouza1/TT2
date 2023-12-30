@@ -1,5 +1,3 @@
-# spec/controllers/divisible_numbers_controller_spec.rb
-
 require 'rails_helper'
 
 RSpec.describe DivisibleNumbersController, type: :controller do
