@@ -81,7 +81,7 @@ que modo é possível saber qual controller é responsável por gerenciar uma de
 view?
 </p>
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT2/issues/">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/8">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
 
