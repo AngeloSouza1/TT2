@@ -47,7 +47,7 @@ Modele um banco de dados capaz de suportar essas regras.
 idade maior ou igual à 18 anos e cuja profissão seja programador ou desenvolvedor
 </p> 
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT2/issues/">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/5">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
      
@@ -58,7 +58,7 @@ Controller)?
 </p>
 <p> 
 
- <a href="https://github.com/AngeloSouza1/TT2/issues/">
+ <a href="https://github.com/AngeloSouza1/TT2/issues/6">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
     </a>
 
@@ -69,7 +69,7 @@ chamado find_user dentro de um controller com o nome UsersController.
  
 </p>
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT2/issues/13">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/7">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
 
@@ -81,7 +81,7 @@ que modo é possível saber qual controller é responsável por gerenciar uma de
 view?
 </p>
     <p> 
-      <a href="https://github.com/AngeloSouza1/TT2/issues/">
+      <a href="https://github.com/AngeloSouza1/TT2/issues/8">
        <img src="https://img.shields.io/badge/Ver%20Solução-darkblue" alt="Ver Solução">
      </a>
 
